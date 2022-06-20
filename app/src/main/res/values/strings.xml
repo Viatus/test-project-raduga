@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test project raduga</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="copy_to_beginning_text">Скопировать в начало</string>
+    <string name="copy_to_end_text">Скопировать в конец</string>
+</resources>
